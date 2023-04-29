@@ -5,11 +5,13 @@
 body{
     margin: 0px;
     padding:0px;
+    height: 100vh;
+    border: 2px solid red;
+    /* display: grid;
+    place-items: center; */
     display: flex;
     justify-content: center;
     align-items: center;
-    /* border: 6px solid red; */
-    height: 100vh;
     background: linear-gradient(to right, rgb(13, 231, 231), rgb(12, 176, 12));
 }
 
