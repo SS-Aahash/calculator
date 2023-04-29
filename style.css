@@ -6,7 +6,7 @@ body{
     margin: 0px;
     padding:0px;
     display: flex;
-    justify-content: center;
+/*     justify-content: center; */
     align-items: center;
     /* border: 6px solid red; */
     height: 100vh;
@@ -14,7 +14,7 @@ body{
 }
 
 .parent_container{
-    width: 300px;
+/*     width: 300px; */
     /* border: 2px solid ; */
     margin: 20px;
 }
