@@ -9,12 +9,12 @@ body{
 /*     justify-content: center; */
     align-items: center;
     /* border: 6px solid red; */
-    height: 100vh;
+    height: 900vh;
     background: linear-gradient(to right, rgb(13, 231, 231), rgb(12, 176, 12));
 }
 
 .parent_container{
-/*     width: 300px; */
+    width: 300px;
     /* border: 2px solid ; */
     margin: 20px;
 }
