@@ -6,10 +6,10 @@ body{
     margin: 0px;
     padding:0px;
     display: flex;
-/*     justify-content: center; */
+    justify-content: center;
     align-items: center;
     /* border: 6px solid red; */
-    height: 900vh;
+    height: 100vh;
     background: linear-gradient(to right, rgb(13, 231, 231), rgb(12, 176, 12));
 }
 
